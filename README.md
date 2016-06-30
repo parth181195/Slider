@@ -6,6 +6,7 @@ you just have to asdd images in slides class and jqury will do the rest..
 
 add your images ahown as bellow
 
+```html
 <div class="slides">
       <img src="img/1.jpg">
       <img src="img/2.jpg">
@@ -13,3 +14,4 @@ add your images ahown as bellow
       <img src="img/4.jpg">
       <img src="img/5.jpg">
   </div>
+```
