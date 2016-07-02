@@ -1,8 +1,7 @@
 # Slider
-Hi folks 
-it's a simple slider,my first project
+Hi folks <br>
+it's a simple slider,my first project <br>
 you just have to asdd images in slides class and jqury will do the rest..
-
 
 add your images ahown as bellow
 
@@ -15,3 +14,6 @@ add your images ahown as bellow
       <img src="img/5.jpg">
   </div>
 ```
+ see the live version at
+
+http://showcase.inktwig.com/showcases/slider/
