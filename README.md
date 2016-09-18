@@ -16,4 +16,4 @@ add your images ahown as bellow
 ```
  see the live version at
 
-http://showcase.inktwig.com/showcases/slider/
+ https://parth181195.github.io/Slider/
